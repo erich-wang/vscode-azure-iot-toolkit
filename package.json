@@ -684,7 +684,7 @@
     "terser-webpack-plugin": "^1.2.1",
     "ts-loader": "^5.3.1",
     "tslint": "^4.5.1",
-    "typescript": "^2.2.1",
+    "typescript": "^3.0.0",
     "vscode": "^1.1.22",
     "webpack": "^4.27.1",
     "webpack-cli": "^3.1.2"
